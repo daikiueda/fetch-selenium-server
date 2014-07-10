@@ -1,0 +1,24 @@
+{
+  "name": "fetch-selenium-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "fetch-selenium-server.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "q": "^1.0.1",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1",
+    "rewire": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "",
+  "license": "MIT"
+}
